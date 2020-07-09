@@ -9,12 +9,6 @@ WowOrder là ứng dụng quản lý bán hàng (POS) giúp các nhà hàng, qu�
 ## Có bất kỳ khoản phí nào không?
 Ứng dụng WowOrder hiện nay có phí 3 gói với các mức phí khác nhau từ 25tr đồng. Hiện đang có chương trình khuyến mãi hấp dẫn cho 10 khách hàng đầu tiên
 
-## Thiết bị nào hỗ trợ ứng dụng WowOrder?
-WowOrder tương thích với tất cả các thiết bị Ipad hệ điều hành iOS 9.4 trở lên và các máy tính bảng sử dụng Android 5.0 trở lên ít nhất 2GB RAM. Thêm vào đó, WowOrder có thể sử dụng trên Sunmi POS là máy POS có tích hợp máy in trong.
-Có thể sử dụng nhiều thiết bị đặt món trong quán và đồng bộ đơn hàng về 1 thiết bị/báo cáo không?
-Có. WowOrder nay đã hỗ trợ tính năng máy chủ-máy con cho phép khách hàng sử dụng nhiều thiết bị cùng 1 lúc (iPad/Tablet/Sunmi) để đặt món và đồng bộ về 1 máy chủ. Để biết cách lắp đặt và sử dụng thì vui lòng nhấn vào đường link này hoặc liên hệ 0909112756
-Những tính năng chính của ứng dụng WowOrder
-
 ## Tính năng chính
 - Quản lý Khách hàng
 - Quản lý đơn hàng
