@@ -11,29 +11,24 @@
   {
     "title": "Extention",
     "links": [
-      { "name": "window/document undefined?", "to": "/window-document-undefined" },
-      { "name": "Why a CSS Flash appears?", "to": "/css-flash" },
-      { "name": "Async data in components?", "to": "/async-data-components" },
-      { "name": "Duplicated Meta Tags?", "to": "/duplicated-meta-tags" },
-      { "name": "iOS and phone numbers", "to": "/ios-phone-numbers" },
-      { "name": "Using Nuxt with Cloudflare", "to": "/using-nuxt-with-cloudflare" }
+      { "name": "WowColor?", "to": "/wowcolor" },
+      { "name": "WowMes?", "to": "/wowmes" },
+      { "name": "WowAddCart?", "to": "/wowaddcart" }
     ]
   },
   {
     "title": "Sử dụng",
     "links": [
-      { "name": "Deploy on AWS w/ S3 and Cloudfront", "to": "/deployment-aws-s3-cloudfront" },
-      { "name": "Deploy on Azure Portal", "to": "/deployment-azure-portal" },
-      { "name": "Deploy on Azure Static Web Apps", "to": "/deployment-azure-static-web-apps" },
-      { "name": "Deploy on Dokku", "to": "/dokku-deployment" },
-      { "name": "Deploy on GitHub", "to": "/github-pages" },
-      { "name": "Deploy on Google App Engine", "to": "/appengine-deployment" },
-      { "name": "Deploy on Heroku", "to": "/heroku-deployment" },
-      { "name": "Deploy on Netlify", "to": "/netlify-deployment" },
-      { "name": "Deploy on Now", "to": "/now-deployment" },
-      { "name": "Deploy on Surge", "to": "/surge-deployment" },
-      { "name": "Deploy using PM2 cluster mode ", "to": "/nginx-proxy" },
-      { "name": "Using nginx as a proxy", "to": "/nginx-proxy" }
+      { "name": "Quản lý sản phẩm", "to": "/quan-ly-san-pham" },
+      { "name": "Quản lý Đơn hàng", "to": "/quan-ly-don-hang" },
+      { "name": "Quản lý khách hàng", "to": "/quan-ly-khach-hang" },
+      { "name": "Quản lý kho", "to": "/quan-ly-kho" },
+      { "name": "Quản lý ship hàng", "to": "/quan-ly-ship-hang" },
+      { "name": "Quản lý tracking", "to": "/quan-ly-tracking" },
+      { "name": "Quản lý tiền gửi", "to": "/quan-ly-tien-gui" },
+      { "name": "Quản lý ví thanh toán", "to": "/quan-ly-vi-thanh-toan" },
+      { "name": "Quản lý chi phí", "to": "/quan-ly-chi-phi" },
+      { "name": "Báo cáo", "to": "/bao-cao" }
     ]
   }
 ]
