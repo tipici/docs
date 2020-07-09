@@ -1,4 +1,4 @@
 ---
-title: Theo dõi Wow<span class="text-nuxt-lightgreen">Order</span>
+title: Đăng ký tư vấn về Wow<span class="text-nuxt-lightgreen">Order</span>
 ---
-Nhận các tin tức mới nhất về WowOrder
+Để lại email của bạn, chúng tôi sẽ liên hệ lại sớm nhất

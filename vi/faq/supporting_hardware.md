@@ -1,6 +1,6 @@
 ---
-title: Những loại phần cứng nào tương thích với WowOrder?
-description: Những loại phần cứng nào tương thích với WowOrder?
+title: Hệ điều hành hỗ trợ?
+description: Những loại hệ điều hành nào tương thích với WowOrder?
 ---
 
 ## Những loại phần cứng nào tương thích với WowOrder?
