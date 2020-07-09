@@ -1,13 +1,19 @@
 ---
-title: Sản phẩm và tính năng?
-description: How to use external resources with Nuxt.js?
+title: "Ra mắt sản phẩm mới WowOrder"
+description: 'Chuyên quản lý hàng order cho các shop. Rất nhiều chức năng tuyệt vời để quản lý khách hàng, đơn hàng, ship hàng,...'
+imgUrl: blog/ra-mat-san-pham-moi-woworder/main.png
+date: 2020-05-19
+authors:
+  - name: "Jack N"
+    avatarUrl: https://github.com/huuthanhdtd.png
+    link: https://twitter.com/huuthanhdtd
+tags:
+  - Laravel
+  - CSS
 ---
 
 ## WowOrder là gì?
 WowOrder là ứng dụng quản lý bán hàng (POS) giúp các nhà hàng, quán cà phê, tiệm bánh và các loại hình kinh doanh khác quản lý cửa hàng.
-
-## Có bất kỳ khoản phí nào không?
-Ứng dụng WowOrder hiện nay có phí 3 gói với các mức phí khác nhau từ 25tr đồng. Hiện đang có chương trình khuyến mãi hấp dẫn cho 10 khách hàng đầu tiên
 
 ## Tính năng chính
 - Quản lý Khách hàng
