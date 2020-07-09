@@ -1,6 +1,6 @@
 ---
 title: Quản lý khách hàng
-description: How to deploy a Nuxt.js application on Azure Portal?
+description: How to manage Customer data on WowOrder?
 ---
 
 ## Tính năng Quản lý khách hàng trên WowOrder
@@ -14,12 +14,12 @@ Thay cho cách quản lý thủ công tốn nhiều giấy tờ, phải mất nh
 ## 1. Tìm kiếm khách hàng
 Với ô tìm kiếm từ khóa, người dùng nhanh chóng tìm được thông tin khách hàng theo tên, số điện thoại, mã khách hàng, địa chỉ.
 
-![Image of quan-ly-khach-hang_01](https://woworder.net/img/huong_dan/quan_ly_khach_hang/quanly_kh_01.jpg)
+![Image of quan-ly-khach-hang_01](https://woworder.net/img/huong_dan/quanly_kh_01.jpg)
 
 ## 2. Thêm mới khách hàng
 Chỉ cần chọn “Thêm” và điền các thông tin cần thiết để thêm mới khách hàng.
 
-![Image of quan-ly-khach-hang_02](https://woworder.net/img/huong_dan/quan_ly_khach_hang/quanly_kh_02.jpg)
+![Image of quan-ly-khach-hang_02](https://woworder.net/img/huong_dan/quanly_kh_02.jpg)
 
 ## 3. Xếp loại khách hàng theo nhóm khách hàng
 Việc phân nhóm khách hàng được thực hiện khi tạo mới khách hàng, hoặc chỉnh sửa thông tin khách hàng.
@@ -27,7 +27,7 @@ Việc phân nhóm khách hàng được thực hiện khi tạo mới khách h�
 Tùy thuộc vào quy trình kinh doanh của mỗi doanh nghiệp sẽ thiết lập nhóm khách hàng khác nhau.
 Từ đó, hỗ trợ cho việc quản lý khách hàng dễ dàng hơn với mức quan tâm khác nhau, giúp cho nhân viên kinh doanh dễ dàng chăm sóc, dễ dàng quyết định thứ tự ưu tiên. Giúp người quản lý cũng có thể dựa vào cách chấm điểm này để ra các chương trình marketing đúng theo các đối tượng khách hàng tiềm năng.
 
-![Image of quan-ly-khach-hang_03](https://woworder.net/img/huong_dan/quan_ly_khach_hang/quanly_kh_03.jpg)
+![Image of quan-ly-khach-hang_03](https://woworder.net/img/huong_dan/quanly_kh_03.jpg)
 
 ## 4. Thống kê lịch sử mua hàng
 Giúp thống kê lịch sử mua hàng đối với từng khách hàng theo các thông tin sau:
@@ -36,7 +36,7 @@ Giúp thống kê lịch sử mua hàng đối với từng khách hàng theo c�
 - Tổng tiền hàng chưa thanh toán.
 - Tổng tiền khách hàng đã gửi, tổng tiền gửi còn lại.
 
-![Image of quan-ly-khach-hang_04](https://woworder.net/img/huong_dan/quan_ly_khach_hang/quanly_kh_04.jpg)
+![Image of quan-ly-khach-hang_04](https://woworder.net/img/huong_dan/quanly_kh_04.jpg)
 
 ## 5. Sao lưu danh sách khách hàng
 Tính năng Xuất Excel giúp hỗ trợ sao lưu danh sách khách hàng thành file Excel đề phòng khi có sự cố mất dữ liệu.
