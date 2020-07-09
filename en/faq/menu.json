@@ -9,7 +9,7 @@
     ]
   },
   {
-    "title": "Extention",
+    "title": "Extension",
     "links": [
       { "name": "WowColor?", "to": "/wowcolor" },
       { "name": "WowMes?", "to": "/wowmes" },
@@ -19,16 +19,16 @@
   {
     "title": "Sử dụng",
     "links": [
+      { "name": "Báo cáo - Thống kê", "to": "/thong-ke" },
       { "name": "Quản lý sản phẩm", "to": "/quan-ly-san-pham" },
       { "name": "Quản lý Đơn hàng", "to": "/quan-ly-don-hang" },
       { "name": "Quản lý khách hàng", "to": "/quan-ly-khach-hang" },
-      { "name": "Quản lý kho", "to": "/quan-ly-kho" },
+      { "name": "Quản lý danh sách kho nước ngoài", "to": "/quan-ly-kho" },
       { "name": "Quản lý ship hàng", "to": "/quan-ly-ship-hang" },
       { "name": "Quản lý tracking", "to": "/quan-ly-tracking" },
       { "name": "Quản lý tiền gửi", "to": "/quan-ly-tien-gui" },
       { "name": "Quản lý ví thanh toán", "to": "/quan-ly-vi-thanh-toan" },
-      { "name": "Quản lý chi phí", "to": "/quan-ly-chi-phi" },
-      { "name": "Báo cáo", "to": "/bao-cao" }
+      { "name": "Quản lý chi phí", "to": "/quan-ly-chi-phi" }     
     ]
   }
 ]
