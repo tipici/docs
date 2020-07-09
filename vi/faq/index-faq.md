@@ -4,10 +4,10 @@ description: How to use external resources with Nuxt.js?
 ---
 
 ## WowOrder là gì?
-WowOrder là ứng dụng quản lý bán hàng (POS) giúp các nhà hàng, quán cà phê, tiệm bánh và các loại hình kinh doanh khác quản lý cửa hàng của họ.
+WowOrder là ứng dụng quản lý bán hàng (POS) giúp các nhà hàng, quán cà phê, tiệm bánh và các loại hình kinh doanh khác quản lý cửa hàng.
 
 ## Có bất kỳ khoản phí nào không?
-Ứng dụng WowOrder hiện nay có phí ban đầu 5 triệu đồng và duy trì hằng tháng 1 triệu đồng. Hiện đang có chương trình khuyến mãi hấp dẫn cho 10 khách hàng đầu tiên
+Ứng dụng WowOrder hiện nay có phí 3 gói với các mức phí khác nhau từ 25tr đồng. Hiện đang có chương trình khuyến mãi hấp dẫn cho 10 khách hàng đầu tiên
 
 ## Thiết bị nào hỗ trợ ứng dụng WowOrder?
 WowOrder tương thích với tất cả các thiết bị Ipad hệ điều hành iOS 9.4 trở lên và các máy tính bảng sử dụng Android 5.0 trở lên ít nhất 2GB RAM. Thêm vào đó, WowOrder có thể sử dụng trên Sunmi POS là máy POS có tích hợp máy in trong.
