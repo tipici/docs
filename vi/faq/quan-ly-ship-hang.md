@@ -10,4 +10,4 @@ Những món hàng đã về sẽ được hiển thị trong mục ship hàng, 
 - Quản lý mã vận đơn, shiper.
 - Trạng thái đơn hàng sẽ được tự động cập nhật trong đơn hàng khi bạn update trạng thái ở bảng ship hàng
 
-![Image of quan-ly-ship-hang_01](https://woworder.net/img/huong_dan/shiphang.PNG)
+![Image of quan-ly-ship-hang_01](https://woworder.net/img/huong_dan/shiphang_01.PNG)
