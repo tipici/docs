@@ -8,4 +8,4 @@ description: Quản lý tracking với WowOrder
 - Mỗi đơn hàng bạn có thể quản lý nhiều tracking id
 - WowOrder sẽ thông báo cho bạn khi trạng thái của tracking có sự thay đổi
 
-![Image of quan-ly-tracking_01](https://woworder.net/img/huong_dan/quanlytracking.PNG)
+![Image of quan-ly-tracking_01](https://woworder.net/img/huong_dan/quanlytracking_01.PNG)

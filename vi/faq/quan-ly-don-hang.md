@@ -3,7 +3,7 @@ title: "WowOrder sẽ giúp bạn quản lý đơn hàng dễ dàng hơn ! "
 description: Quản lý đơn hàng
 ---
 
-![Image of quan-ly-don-hang_01](https://woworder.net/img/huong_dan/donhang.PNG)
+![Image of quan-ly-don-hang_01](https://woworder.net/img/huong_dan/donhang_01.PNG)
 
   - > **Quản lý danh sách đơn hàng.**
   - > **Quản lý tình trạng đơn hàng.**
