@@ -7,4 +7,4 @@ description: Xu hướng sản phẩm
 
 1. Hiện TOP sản phẩm đang hot.
 2. Giúp PR chính xác mục tiêu.
-3. Tự tin gôm hàng, mở rộng thị trường, tăng doanh số.
+3. Tự tin gom hàng, mở rộng thị trường, tăng doanh số.
