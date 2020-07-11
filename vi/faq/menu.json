@@ -28,7 +28,8 @@
       { "name": "Quản lý tracking", "to": "/quan-ly-tracking" },
       { "name": "Quản lý tiền gửi", "to": "/quan-ly-tien-gui" },
       { "name": "Quản lý ví thanh toán", "to": "/quan-ly-vi-thanh-toan" },
-      { "name": "Quản lý chi phí", "to": "/quan-ly-chi-phi" }     
+      { "name": "Quản lý chi phí", "to": "/quan-ly-chi-phi" },
+      { "name": "Xu hướng sản phẩm", "to": "/xu-huong-san-pham" }
     ]
   }
 ]

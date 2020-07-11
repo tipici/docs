@@ -1,13 +1,12 @@
 ---
-title: Quản lý khách hàng
+title: WowOrder quản lý và chăm sóc khách hàng ưu việt!
 description: How to manage Customer data on WowOrder?
 ---
 
-## Tính năng Quản lý khách hàng trên WowOrder
-Thay cho cách quản lý thủ công tốn nhiều giấy tờ, phải mất nhiều thời gian nhập dữ liệu mà hiệu quả mang lại không cao, WowOrder giúp tối ưu thời gian Quản lý Khách hàng mang lại doanh số cao hơn cho doanh nghiệp.
+WowOrder lưu trữ thông tin khách hàng theo các trường, giúp tối ưu hóa việc tìm kiếm, quản lý và phân loại thông tin theo từng nhóm khách hàng cụ thể và chi tiết. Tiết kiệm thời gian Quản lý Khách hàng mang lại doanh số cao hơn cho doanh nghiệp.
 - Dễ dàng cập nhật thông tin khách hàng mới ngay trên màn hình thêm đơn hàng.
 - Lưu trữ thông tin của khách hàng: Mã Khách hàng, số điện thoại, địa chỉ, email.
-- Xếp loại khách hàng theo nhóm khách hàng, biến khách hàng mới thành khách quen, khách quen thành khách thân thiết.
+- Xếp loại khách hàng theo nhóm khách hàng, dễ dàng thay đổi khách hàng mới thành khách quen, khách quen thành khách thân thiết.
 - Thống kê lịch sử mua hàng của khách: Tổng tiền hàng đã mua, tổng tiền hàng đã thanh toán, tổng tiền hàng chưa thanh toán...
 
 ## Các tính năng chính tăng hiệu quả Quản lý khách hàng
