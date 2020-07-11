@@ -3,7 +3,7 @@ title: Hướng dẫn chrome extension WowMes
 description: Hướng dẫn chrome extension WowMes
 ---
 
-**Công cụ hỗ trợ thêm đơn hàng chạy trên trình duyệt Google Chrome, Cốc Cốc, Microsoft Edge (Lưu ý chỉ sử dụng được máy tính)**
+**Công cụ hỗ trợ thêm đơn hàng chạy trên trình duyệt Google Chrome, Cốc Cốc, Microsoft Edge (Lưu ý chỉ sử dụng được trên máy tính)**
 
 _Màn hình khi kết nối Messenger_
 
@@ -15,5 +15,5 @@ _Nhập link hoặc nhập từ tìm kiếm_
 
 _Thêm đơn hàng_
 
-Điều chỉnh giá, màu sắc, số lượng ... sau đó nhấp nút *Luư* để thêm đơn hàng.
+Điều chỉnh giá, màu sắc, số lượng ... sau đó nhấp nút *Lưu* để thêm đơn hàng.
 
