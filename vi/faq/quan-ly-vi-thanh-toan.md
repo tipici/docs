@@ -9,4 +9,4 @@ WowOrder lưu trữ thông tin ví thanh toán như tiền mặt, các tài kho�
 - Linh hoạt liên kết các thanh toán với bất kỳ ví thanh toán nào.
 - Khi doanh nghiệp lập thêm một tài khoản mới, tài khoản đó cần được thêm mới trong hệ thống để tối ưu hóa công tác quản lý.
 
-![Image of quanly_vi_thanh_toan_01.jpg](https://woworder.net/img/quanly_vi_thanh_toan_01.jpg)
+![Image of quanly_vi_thanh_toan_01.jpg](https://woworder.net/img/huong_dan/quanly_vi_thanh_toan_01.jpg)
