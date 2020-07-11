@@ -1,6 +1,6 @@
 ---
 title: Sản phẩm và tính năng?
-description: How to use external resources with Nuxt.js?
+description: Sản phẩm và tính năng của WowOrder?
 ---
 
 ## WowOrder là gì?

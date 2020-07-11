@@ -23,7 +23,7 @@
       { "name": "Quản lý sản phẩm", "to": "/quan-ly-san-pham" },
       { "name": "Quản lý Đơn hàng", "to": "/quan-ly-don-hang" },
       { "name": "Quản lý khách hàng", "to": "/quan-ly-khach-hang" },
-      { "name": "Quản lý danh sách kho nước ngoài", "to": "/quan-ly-kho" },
+      { "name": "Quản lý kho", "to": "/quan-ly-kho" },
       { "name": "Quản lý ship hàng", "to": "/quan-ly-ship-hang" },
       { "name": "Quản lý tracking", "to": "/quan-ly-tracking" },
       { "name": "Quản lý tiền gửi", "to": "/quan-ly-tien-gui" },
