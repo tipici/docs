@@ -58,11 +58,11 @@
       "become_a_sponsor": "Ủng hộ"
     },
     "newsletter_form": {
-      "email": "Email",
+      "email": "Điện thoại",
       "subscribing": "Đang đăng ký...",
       "subscribe": "Đăng ký",
       "subscribed_messages": {
-        "pre": "Đã gửi mail xác nhận cho bạn",
+        "pre": "Cảm ơn bạn đã liên hệ, chúng tôi sẽ gọi lại cho bạn sớm",
         "post": "💚"
       }
     }
