@@ -12,8 +12,8 @@
       "type": "static"
     },
     {
-      "name": "FAQ",
-      "slug": "faq",
+      "name": "Hướng dẫn",
+      "slug": "huong-dan-su-dung",
       "type": "dynamic",
       "routeName": "section-slug"
     },
