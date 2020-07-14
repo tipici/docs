@@ -13,7 +13,7 @@
     },
     {
       "name": "Hướng dẫn",
-      "slug": "huong-dan-su-dung",
+      "slug": "manual",
       "type": "dynamic",
       "routeName": "section-slug"
     },
