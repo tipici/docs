@@ -7,7 +7,7 @@ WowOrder sẽ mang đến cho bạn giao diện quản lý đơn hàng trực qu
 - Hiển thị dự kiến ngày về và sẽ báo khi quá ngày dự kiến mà hàng chưa về
 - Báo cho bạn khi hàng đã về mà khách chưa lấy hàng.
  
-![Image of quan-ly-don-hang_01](https://woworder.net/img/huong_dan/donhang_01.png)
+![Image of quan-ly-don-hang_01](https://woworder.net/img/huong_dan/donhang_01.PNG)
 
 - WowOrder cung cấp cho bạn giao diện báo đặt trực quan, dễ hiểu, dễ kiểm tra khi chốt đơn với khách.
 
