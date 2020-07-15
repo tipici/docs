@@ -1,9 +1,7 @@
 ---
-title: Trang chủ - Thống kê
+title: Tính năng Báo cáo - Thống kê trên WowOrder
 description: How to view Statistic on WowOrder?
 ---
-
-## Tính năng Báo cáo - Thống kê trên WowOrder
 Thống kê chi tiết tình hình kinh doanh theo từng khoản thời gian tùy chọn:
 - Thống kê Tổng số lượng hàng order, doanh thu, lãi, tiền hàng đã mua.
 - Biểu đồ thống kê tổng món hàng trong 30 ngày trước.

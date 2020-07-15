@@ -12,8 +12,8 @@
       "type": "static"
     },
     {
-      "name": "FAQ",
-      "slug": "faq",
+      "name": "Hướng dẫn",
+      "slug": "manual",
       "type": "dynamic",
       "routeName": "section-slug"
     },
