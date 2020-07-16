@@ -1,3 +1,3 @@
 ---
-title: Khách hàng đang dùng <span class="text-nuxt-lightgreen">WowOrder</span>
+title: Khách hàng đang dùng Wow<span class="text-nuxt-lightgreen">Order</span>
 ---
